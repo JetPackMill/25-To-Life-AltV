@@ -3,7 +3,7 @@
     "host": "0.0.0.0",
     "env": "devtest",
     "port": 7788,
-    "players": 32,
+    "players": 4,
     "password": null,
     "token": null,
     "announce": false,
